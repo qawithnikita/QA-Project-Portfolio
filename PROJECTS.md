@@ -20,8 +20,9 @@
 ### Retail & Consumer Applications / E-Commerce
 - **Envive Monitoring – Continuous Monitoring Platform**  
   Role: Manual & Automation Tester  
-  Description: Monitored 10 merchants with Playwright, Cypress, and WebDriverIO. Tested chatbot integration and tracked merchant performance.  
-  *(Repo link: coming soon)*  
+  Description: Monitored 10 merchants with Playwright, Cypress, and WebDriverIO .Utilized multiple tools (Playwright, Cypress, WebDriverIO) to leverage their        unique strengths—cross-browser coverage, fast regression checks, and handling of complex enterprise workflows—ensuring a scalable and resilient
+   monitoring    solution across 10+ merchants. Tested chatbot integration and tracked merchant performance.  
+  
 
 - **CigarsIndia – E-Commerce Platform**  
   Role: Manual & Automation Tester  
