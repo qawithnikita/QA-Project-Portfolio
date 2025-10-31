@@ -52,7 +52,7 @@
   Role: Manual & Automation Tester  
   Description: Functional and automation testing for product catalogs, checkout flows, and payment integrations.
 
-  **Carbon Accents**: It is a car styling company that styles premium brand cars like Audi, BMW, Mercedes, Porsche, Tesla, etc.
+- **Carbon Accents- It is a car styling company that styles premium brand cars like Audi, BMW, Mercedes, Porsche, Tesla, etc.** 
   Role: Manual Tester
   Description: Functional and performance testing (site speed).
 
