@@ -17,7 +17,7 @@
   Role: Manual & Automation Tester + Product Backlog Management  
   Description: Tested AI-assisted coding platform for generating code based on prompts. Verified UI/UX, functional workflows, and automated tests. Contributed to backlog management and feature prioritization.  
 
-### Retail & Consumer Applications / E-Commerce
+### Retail & Consumer Applications / E-Commerce / ShopiFy
 - **Envive Monitoring – Continuous Monitoring Platform**  
   Role: Manual & Automation Tester  
   Description: Monitored 10 merchants with Playwright, Cypress, and WebDriverIO .Utilized multiple tools (Playwright, Cypress, WebDriverIO) to leverage their        unique strengths—cross-browser coverage, fast regression checks, and handling of complex enterprise workflows—ensuring a scalable and resilient
@@ -50,7 +50,13 @@
 
 - **Weaver Ireland – E-Commerce Platform for Weaving Products**  
   Role: Manual & Automation Tester  
-  Description: Functional and automation testing for product catalogs, checkout flows, and payment integrations.  
+  Description: Functional and automation testing for product catalogs, checkout flows, and payment integrations.
+
+  **Carbon Accents**: It is a car styling company that styles premium brand cars like Audi, BMW, Mercedes, Porsche, Tesla, etc.
+  Role: Manual Tester
+  Description: Functional and performance testing (site speed).
+
+  
 
 ### Travel & Hospitality
 - **Skyscanner Limited – Travel Booking Platform**  
