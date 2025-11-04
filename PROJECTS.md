@@ -1,29 +1,45 @@
 ##  Project Catalogue (by Domain):
 
 ### SaaS / Productivity Tools / AI
+
+  - **BynFor – Innovative Auction-Based SaaS + E-Commerce Web & App**
+  Role: Manual + Automation Tester
+  Description:
+  Performed end-to-end testing of the multi-tenant BynFor platform. Verified role-based permissions, auction workflows (Sealed Bid and Reverse Bid), and instant sale flows. Delivered comprehensive test cases and detailed bug reports. Additionally, developed full end-to-end automation test suites using Selenium with Python.
+  
+  - **OperrWork – Internal Work Management Web Platform**
+  Role: Manual + Automation Tester
+  Description:
+  Performed end-to-end testing of OperrWork’s internal multi-tenant work management platform. Verified role-based permissions and ensured functional 
+  integrity  across modules. Delivered comprehensive test cases and detailed bug reports. Additionally, developed full end-to-end automation test suites using   Playwright with TypeScript.
+
 - **Bark Bureau – Dog Shelter Management SaaS App**  
   Role: Manual & Automation Tester  
-  Description: End-to-end testing of a multi-tenant dog shelter platform. Verified role-based permissions, workflows, notifications, and cloud-hosted operations. Delivered comprehensive test cases and bug reports.  
-
+  Description:
+  End-to-end testing of a multi-tenant dog shelter platform. Verified role-based permissions, workflows, notifications, and cloud-hosted operations.    Delivered    comprehensive test cases and bug reports. Additionally, developed full end-to-end automation test suites using Selenium with Java
+  .
 - **CMS intcis web – SaaS CMS Platform**  
   Role: Manual & Automation Tester  
-  Description: Tested subscription workflows, form submissions, and content management features. Implemented automation for repetitive tasks and validated system behavior under different user roles.  
+  Description: Tested subscription workflows, form submissions, and content management features. Implemented automation for repetitive tasks and validated system    behavior under different user roles. Additionally, developed full end-to-end automation test suites using Playwright with Typescript.
 
 - **Monday – Workflow Automation / Project Management Tool**  
   Role: Manual Tester  
   Description: Tested task workflows, project management functionalities, and role-based permissions. Logged defects and provided actionable feedback to improve user experience.  
 
 - **Erdos – AI-Based Prompt-Driven Coding Platform**  
-  Role: Manual & Automation Tester + Product Backlog Management  
-  Description: Tested AI-assisted coding platform for generating code based on prompts. Verified UI/UX, functional workflows, and automated tests. Contributed to backlog management and feature prioritization.  
+  Role: Manual and Automation Tester + Product Backlog Management  
+  Description: Tested AI-assisted coding platform for generating code based on prompts. Verified UI/UX, functional workflows, and automated tests. Contributed to    backlog management and feature prioritization.  
 
 ### Retail & Consumer Applications / E-Commerce / ShopiFy
 - **Envive Monitoring – Continuous Monitoring Platform**  
   Role: Manual & Automation Tester  
   Description: Monitored 10 merchants with Playwright, Cypress, and WebDriverIO .Utilized multiple tools (Playwright, Cypress, WebDriverIO) to leverage their        unique strengths—cross-browser coverage, fast regression checks, and handling of complex enterprise workflows—ensuring a scalable and resilient
-   monitoring    solution across 10+ merchants. Tested chatbot integration and tracked merchant performance.  
-  
+   monitoring    solution across 10+ merchants. Tested chatbot integration and tracked merchant performance.
 
+- **Carbon Accents- It is a car styling company that styles premium brand cars like Audi, BMW, Mercedes, Porsche, Tesla, etc.** 
+  Role: Manual Tester
+  Description: Functional and performance testing (site speed).
+  
 - **CigarsIndia – E-Commerce Platform**  
   Role: Manual & Automation Tester  
   Description: Functional, regression, and automation testing for product search, checkout, and payment workflows.  
@@ -51,12 +67,6 @@
 - **Weaver Ireland – E-Commerce Platform for Weaving Products**  
   Role: Manual & Automation Tester  
   Description: Functional and automation testing for product catalogs, checkout flows, and payment integrations.
-
-- **Carbon Accents- It is a car styling company that styles premium brand cars like Audi, BMW, Mercedes, Porsche, Tesla, etc.** 
-  Role: Manual Tester
-  Description: Functional and performance testing (site speed).
-
-  
 
 ### Travel & Hospitality
 - **Skyscanner Limited – Travel Booking Platform**  
