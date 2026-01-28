@@ -2,7 +2,7 @@
 
 ## About Me:
 Hi, I am Nikita Dehariya.
-I am a QA Engineer with 5+ years of experience in Manual and Automation Testing, specializing in Web, Mobile, and Desktop applications. I help deliver high-quality, stable, and seamless products across multiple domains.
+I am a QA Engineer with 6+ years of experience in Manual and Automation Testing, specialising in Web, Mobile, and Desktop applications. I help deliver high-quality, stable, and seamless products across multiple domains.
 
 ## Skills & Tools
 
