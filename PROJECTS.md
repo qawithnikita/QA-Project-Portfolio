@@ -1,7 +1,8 @@
 ##  Project Catalogue (by Domain):
 
 ### SaaS / Productivity Tools / AI
--**Skycloak – SaaS-Based Secure Identity & Access Management (IAM) Platform**
+
+  -  **Skycloak – SaaS-Based Secure Identity & Access Management (IAM) Platform**
 Skycloak is a cloud-based Identity and Access Management (IAM) platform built on Keycloak, designed to secure authentication, authorisation, and access control for applications. I performed in-depth full-stack testing across frontend and API layers using both manual and automation with Playwright. The project also included comprehensive security and WAF testing to validate defense against injection attacks, malformed requests, and authorization bypass scenarios, helping identify gaps and improve overall platform security.
 
   - **BynFor – Innovative Auction-Based SaaS + E-Commerce Web & App**
