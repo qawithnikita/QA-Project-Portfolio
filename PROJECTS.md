@@ -8,13 +8,13 @@ Skycloak is a cloud-based Identity and Access Management (IAM) platform built on
   - **BynFor – Innovative Auction-Based SaaS + E-Commerce Web & App**
   Role: Manual + Automation Tester
   Description:
-  Performed end-to-end testing of the multi-tenant BynFor platform. Verified role-based permissions, auction workflows (Sealed Bid and Reverse Bid), and instant sale flows. Delivered comprehensive test cases and detailed bug reports. Additionally, developed full end-to-end automation test suites using Selenium with Python.
+  Performed end-to-end testing of the multi-tenant BynFor platform. Verified role-based permissions, auction workflows (Sealed Bid and Reverse Bid), and instant sale flows. Delivered comprehensive test cases and detailed bug reports. Additionally, developed full end-to-end automation test suites with Playwright.
   
   - **OperrWork – Internal Work Management Web Platform**
   Role: Manual + Automation Tester
   Description:
   Performed end-to-end testing of OperrWork’s internal multi-tenant work management platform. Verified role-based permissions and ensured functional 
-  integrity  across modules. Delivered comprehensive test cases and detailed bug reports. Additionally, developed full end-to-end automation test suites using   Playwright with TypeScript.
+  integrity  across modules. Delivered comprehensive test cases and detailed bug reports. Additionally, developed full end-to-end automation test suites using       Playwright with TypeScript.
 
 - **Bark Bureau – Dog Shelter Management SaaS App**  
   Role: Manual & Automation Tester  
